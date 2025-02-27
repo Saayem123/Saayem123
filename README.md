@@ -6,11 +6,7 @@ Besides coding, you’ll often find me **playing games with my friends** 😁 <b
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samm_roxx)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-saayem-875363253)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SammRoxx7)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdsaayam123@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/saayem_9198/)[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?logo=codechef&logoColor=white)](https://www.codechef.com/users/mohd_saayem)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samm_roxx)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-saayem-875363253)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SammRoxx7)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdsaayam123@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/saayem_9198/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?logo=codechef&logoColor=white)](https://www.codechef.com/users/mohd_saayem)  
 
 
 # 💻 Tech Stack:
