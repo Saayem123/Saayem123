@@ -1,5 +1,5 @@
 # Hey 👋, I'm Mohd Saayem! <br>
-I am a **self-taught, enthusiastic Full Stack Developer** 🌐 and a **DevOps Enthusiast** 🚀.  
+I am an **enthusiastic Full Stack Developer** 🌐 and a **DevOps Enthusiast** 🚀.  
 I love **exploring modern DevOps tools & technologies** 🛠️ like **Docker, Kubernetes, Jenkins, Terraform, AWS, and CI/CD pipelines**,  
 along with **building scalable full-stack applications** using **React, Node.js, MongoDB, and more**.  
 Besides coding, you’ll often find me **playing games with my friends** 😁 <br>
